@@ -58,7 +58,22 @@
 or send it to txt file
 <pre>ollama show --modelfile llama3.2:1B > ~/Downloads/llama3.2.txt </pre>
 
-<h2>How small can you go?</h2>
-<ul><li><a href="https://apps.apple.com/us/app/pocketpal-ai/id6502579498">Apple PocketPal</a>
-  </li><li><a href="https://play.google.com/store/apps/details?id=com.pocketpalai&hl=en" target="_blank">Android PocketPal</a></li></ul>
+<h2>Benefits of local LLMs</h2>
+<ul>
+	<h3>Private</h3>
+	<li>Data does not leave your machine</li>
+	<h3>There's no war in Ba Sing Se</h3>
+	<li>Censorship lowers the quality of answers</li>
+	<li><a href="https://huggingface.co/mlabonne/Daredevil-8B-abliterated">Daredevil 8B</a></li>
+  <li>Free</li>
+</ul>
 
+<h2>How small can you go?</h2>
+<ul>
+	<li><a href="https://apps.apple.com/us/app/pocketpal-ai/id6502579498">Apple PocketPal</a></li>
+	<li>
+		<a href="https://play.google.com/store/apps/details?id=com.pocketpalai&hl=en" target="_blank"
+			>Android PocketPal</a
+		>
+	</li>
+</ul>
