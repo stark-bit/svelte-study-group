@@ -22,7 +22,7 @@
 	<a href="/"><h1 class="">iVendi FE Study group</h1></a>
 	<span class="">{$page.route.id?.slice(1)?.toUpperCase()} </span>
 </div>
-<main class="prose mx-auto py-[4rem]">
+<main class="prose mx-auto my-[4rem] bg-white px-[2rem] py-[4rem] shadow-xl">
 	{@render children()}
 </main>
 
@@ -61,5 +61,9 @@
 		animation:
 			210ms cubic-bezier(0, 0, 0.2, 1) 90ms both fade-in,
 			300ms cubic-bezier(0.4, 0, 0.2, 1) both slide-from-right;
+	}
+
+	.prose {
+    max-width: 85ch;
 	}
 </style>
