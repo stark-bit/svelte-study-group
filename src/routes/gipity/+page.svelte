@@ -5,7 +5,7 @@
 	<a target="_blank" href="https://ollama.com/download">https://ollama.com/download</a>
 	<p>or for MacOs</p>
 	<pre>brew install ollama</pre>
-	<h2>2. Start ollama</h2>
+	<h2>2. Start ollama (MacOs)</h2>
 	<pre>brew services start ollama</pre>
 	<h2>3. Download & Run a Llama model</h2>
 	<pre>ollama run llama3.2:1b</pre>
